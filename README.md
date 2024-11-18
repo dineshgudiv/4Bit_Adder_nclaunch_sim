@@ -113,6 +113,7 @@ or
 	To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
 
 ### Fig 7: Nclaunch Window
+![Screenshot 2024-11-18 062818](https://github.com/user-attachments/assets/1db518d0-66c9-481e-8db8-e46e788dc2df)
 
 ## Step 1: Compilation:– Process to check the correct Verilog language syntax and usage 
 
@@ -169,8 +170,10 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 ### Fig 10: Design Browser window for simulation
 
 ### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
+![Screenshot 2024-11-18 063057](https://github.com/user-attachments/assets/0aac4137-28e1-4868-9e58-fe4d39d182de)
 
 ### Fig 12: Simulation Waveform Window
+![Screenshot 2024-11-18 063937](https://github.com/user-attachments/assets/9fbc0b31-5e3f-4949-adad-d63e6a065ca0)
 
 ### Result:
 
