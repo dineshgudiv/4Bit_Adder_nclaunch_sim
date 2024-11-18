@@ -73,6 +73,7 @@ Developed by: Register Number*/
 	After this you can see the window like below 
 
 ### Fig 3:Invoke the Cadence Environment
+![Screenshot 2024-11-18 062757](https://github.com/user-attachments/assets/eeb204c8-ccbb-4744-94f5-1327a7ded720)
 
 	To Launch Simulation tool 
 
@@ -91,6 +92,7 @@ or
 	Click the cds.lib file and save the file by clicking on Save option 
 
 ### Fig 5:cds.lib file Creation
+![Screenshot 2024-11-18 062847](https://github.com/user-attachments/assets/c8740894-9ac1-4e3c-9cc1-a2a192808938)
 
 	Save cds.lib file and select the correct option for cds.lib file format based on the HDL Language and Libraries used. 
 
@@ -103,6 +105,7 @@ or
 ![image](https://github.com/user-attachments/assets/781b297a-11e9-4140-89c5-ee3b0d15bbd4)
 
 ### Fig 6: Selection of Don’t include any libraries
+![Screenshot 2024-11-18 062913](https://github.com/user-attachments/assets/07eb7835-1bcc-49f7-a6fa-4d1a35aab469)
 
 	A ‘NCLaunch window’ appears as shown in figure below 
 
@@ -113,6 +116,7 @@ or
 	To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
 
 ### Fig 7: Nclaunch Window
+![Screenshot 2024-11-18 062818](https://github.com/user-attachments/assets/34347c81-176d-42ff-b594-53ef50f8574b)
 
 ## Step 1: Compilation:– Process to check the correct Verilog language syntax and usage 
 
@@ -132,6 +136,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
 
 ### Fig 8: Compiled database in worklib
+![Screenshot 2024-11-18 062847](https://github.com/user-attachments/assets/d3a34d6a-b705-416c-a4ab-cdb1749d2f2d)
 
 	After compilation it will come under worklib you can see in right side window
 
@@ -167,6 +172,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 	Steps for simulation – Run the simulation command with simulator options
 
 ### Fig 10: Design Browser window for simulation
+![Screenshot 2024-11-18 063057](https://github.com/user-attachments/assets/314d06a0-70a0-4bf1-bc50-966f293e5d98)
 
 ### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
 
