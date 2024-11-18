@@ -86,7 +86,7 @@ or
 	It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
 
 ### Fig 4:Setting Multi-step simulation
-
+![Screenshot 2024-11-18 062818](https://github.com/user-attachments/assets/34347c81-176d-42ff-b594-53ef50f8574b)
 	Select Multiple Step and then select “Create cds.lib File” .
 
 	Click the cds.lib file and save the file by clicking on Save option 
@@ -116,7 +116,8 @@ or
 	To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
 
 ### Fig 7: Nclaunch Window
-![Screenshot 2024-11-18 062818](https://github.com/user-attachments/assets/34347c81-176d-42ff-b594-53ef50f8574b)
+ 
+![Screenshot 2024-11-18 062834](https://github.com/user-attachments/assets/e8e61e6b-0e17-410f-a1f0-9c3169dea260)
 
 ## Step 1: Compilation:– Process to check the correct Verilog language syntax and usage 
 
