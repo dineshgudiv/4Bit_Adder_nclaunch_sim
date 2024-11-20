@@ -103,6 +103,7 @@ or
 ![image](https://github.com/user-attachments/assets/781b297a-11e9-4140-89c5-ee3b0d15bbd4)
 
 ### Fig 6: Selection of Don’t include any libraries
+![Screenshot 2024-11-18 062913](https://github.com/user-attachments/assets/46023992-ca95-4610-bf41-1915e8fc0c86)
 
 	A ‘NCLaunch window’ appears as shown in figure below 
 
@@ -167,10 +168,14 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 	Steps for simulation – Run the simulation command with simulator options
 
 ### Fig 10: Design Browser window for simulation
+![Screenshot 2024-10-08 210955](https://github.com/user-attachments/assets/200d10ce-94f3-4ded-92b6-b8fb37eab9da)
 
 ### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
+![Screenshot 2024-11-20 180750](https://github.com/user-attachments/assets/46b27b23-080d-4112-a29e-8e6c3e8b8b2c)
+
 
 ### Fig 12: Simulation Waveform Window
+    ![Screenshot 2024-10-08 211054](https://github.com/user-attachments/assets/564c76de-afdc-4c2b-b6a9-a5a626d7eadf)
 
 ### Result:
 
